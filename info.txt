@@ -1,0 +1,4 @@
+intala los siguientes librerias
+#pip install qrcode
+#pip install wifi-qrcode-generator
+
